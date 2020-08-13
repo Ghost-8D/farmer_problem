@@ -23,7 +23,7 @@ java -cp .:./stdlib.jar Farmer
 ```
 
 ### Can you find the solution?
-Try to think of the solution before executing the program and the run the program to watch your imagination come to life!
+Try to think of the solution before executing the program and then run the program to watch your imagination come to life!
 
 ### Screenshots from execution:
 ![](https://github.com/Ghost-8D/farmer_problem/blob/master/farmer_problem/Farmer0.png)
