@@ -24,5 +24,5 @@ java -cp .:./stdlib.jar Farmer
 
 ### Screenshots from execution:
 ![](https://github.com/Ghost-8D/farmer_problem/blob/master/farmer_problem/Farmer0.png)
-![](https://github.com/Ghost-8D/farmer_problem/blob/master/farmer_problem/Farmer1.png)
-![](https://github.com/Ghost-8D/farmer_problem/blob/master/farmer_problem/Farmer2.png)
+![](https://github.com/Ghost-8D/farmer_problem/blob/master/farmer_problem/Farmer3.png)
+![](https://github.com/Ghost-8D/farmer_problem/blob/master/farmer_problem/Farmer7.png)
